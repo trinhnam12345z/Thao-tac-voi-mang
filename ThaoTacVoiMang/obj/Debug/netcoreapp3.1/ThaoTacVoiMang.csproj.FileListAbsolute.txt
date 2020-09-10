@@ -1,0 +1,13 @@
+E:\BT C#\ThaoTacVoiMang\ThaoTacVoiMang\bin\Debug\netcoreapp3.1\ThaoTacVoiMang.exe
+E:\BT C#\ThaoTacVoiMang\ThaoTacVoiMang\bin\Debug\netcoreapp3.1\ThaoTacVoiMang.deps.json
+E:\BT C#\ThaoTacVoiMang\ThaoTacVoiMang\bin\Debug\netcoreapp3.1\ThaoTacVoiMang.runtimeconfig.json
+E:\BT C#\ThaoTacVoiMang\ThaoTacVoiMang\bin\Debug\netcoreapp3.1\ThaoTacVoiMang.runtimeconfig.dev.json
+E:\BT C#\ThaoTacVoiMang\ThaoTacVoiMang\bin\Debug\netcoreapp3.1\ThaoTacVoiMang.dll
+E:\BT C#\ThaoTacVoiMang\ThaoTacVoiMang\bin\Debug\netcoreapp3.1\ThaoTacVoiMang.pdb
+E:\BT C#\ThaoTacVoiMang\ThaoTacVoiMang\obj\Debug\netcoreapp3.1\ThaoTacVoiMang.csprojAssemblyReference.cache
+E:\BT C#\ThaoTacVoiMang\ThaoTacVoiMang\obj\Debug\netcoreapp3.1\ThaoTacVoiMang.AssemblyInfoInputs.cache
+E:\BT C#\ThaoTacVoiMang\ThaoTacVoiMang\obj\Debug\netcoreapp3.1\ThaoTacVoiMang.AssemblyInfo.cs
+E:\BT C#\ThaoTacVoiMang\ThaoTacVoiMang\obj\Debug\netcoreapp3.1\ThaoTacVoiMang.csproj.CoreCompileInputs.cache
+E:\BT C#\ThaoTacVoiMang\ThaoTacVoiMang\obj\Debug\netcoreapp3.1\ThaoTacVoiMang.dll
+E:\BT C#\ThaoTacVoiMang\ThaoTacVoiMang\obj\Debug\netcoreapp3.1\ThaoTacVoiMang.pdb
+E:\BT C#\ThaoTacVoiMang\ThaoTacVoiMang\obj\Debug\netcoreapp3.1\ThaoTacVoiMang.genruntimeconfig.cache
